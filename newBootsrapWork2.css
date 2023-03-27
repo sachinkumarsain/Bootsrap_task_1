@@ -15,3 +15,20 @@ i{border-radius: 5px;}
     width: 46%;
     margin: 20px auto;
 }
+.section3{
+    background-color: rgb(243, 243, 243);
+}
+.box4{
+    border-radius: 5px;
+    box-shadow: 0 0 5px 4px rgb(224, 224, 224);
+}
+.box4 img{
+    width: 306px;
+    height: 204px;
+    border-radius: 5px;
+}
+.box4 h2 span img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
