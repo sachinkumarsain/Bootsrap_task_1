@@ -7,3 +7,11 @@
         border-radius: 4px;
 }
 i{border-radius: 5px;}
+.box2 h3 .first img{
+    width:45px;
+    height:45px;
+}
+.para1{
+    width: 46%;
+    margin: 20px auto;
+}
